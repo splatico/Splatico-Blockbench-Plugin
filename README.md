@@ -1,5 +1,7 @@
 # Splatico Blockbench plugin
 
+The official Blockbench plugin for [Splatico](http://splaticogame.com/). Create custom props and assets for your maps.
+
 Install `splatico.js` in Blockbench 5.0 or later: **File → Plugins → Load Plugin from File**.
 The plugin also works in the web version. To start, go to **File → New Splatico Prop** or **File → New Splatico Asset**.
 
